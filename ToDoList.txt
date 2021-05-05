@@ -1,0 +1,51 @@
+Knights can attack during armed period, can throw bombs
+can kill Knights with bombs
+add sound when you use a health pack
+add sound for all power-ups
+add achievements in game
+add achievements: mega kill, double kill, godlike, jeanettelike
+add achievement: The Lightning Bunny (speed-ups stack)
+add achievement: The Dead bunny (Dies the most)
+add achievement: The Yellow Bunny (Hold high score the longest)
+add achievement: The Exterminator (most bunny kills)
+add achievement: The Laziest bunny (longest time without getting point)
+add achievement: The Demolition bunny (most bombs thrown)
+add achievement: The Suicidal bunny (the player to blow themselves up the most)
+add achievement: The Mario bunny (Picks up the most mushrooms)
+add achievement: The Invulnerable bunny (uses the most force fields)
+add achievement: The Bloodiest bunny (Kills the most Knights)
+add achievement: The Impaired bunny (has the least amount of health for the longest amount of time)
+add achievement: The Resilient bunny (Of the bunnies that didn't die the one that stayed at the lowest amount of health for the longest period of time)
+add achievement: The Hardcore bunny (Never uses power-ups, may use grenades)
+add achievement: The Killer Bunny (Earned the most achievements)
+add achievement: First Kill (got the first point)
+add achievement: The Invisible bunny (spends the most time partially off-screen)
+add achievement: The Points Eliminator (dies with the most points)
+add achievement: The Green bunny (dies with the least points)
+add achievement: The Speed Demon (Of the bunnies with more than 5 speed-ups stacked got the most points)
+add achievement: The Prettiest bunny (random)
+add achievement: The ugliest bunny (random)
+add achievement: The Hoarder (Grabs the most power-ups)
+add achievement: The Lucky award (didn't have any points until 5 seconds from end)
+add achievement: The Procrastinator bunny (Won the game while having the least amount of time having the high score)
+add achievement: The Daring bunny (runs into explosions while they have been exploding)
+add achievement: The Crazy bunny (Most unnecessary button presses)
+add achievement: The Desperate bunny (the bunny with the most achievements and never had high score)
+add achievement: The Revenge bunny (removes the most hearts from the bunny who removed the most hearts from it)
+
+have different music for main menu(can stay what it is), game (preferable a game loop), and scoreboard (not a game loop).
+add new menu where you do players
+allow mode where you play multiple times. have a scoreboard for the current game and one for overall.
+make knights have differing amounts of health
+make knights that give you more points
+add particles when picking up power-up
+make bunnies that don't do anything for 3 seconds switch to computer mode
+add more bunnies
+
+during time of EMP bombs won't work
+during time of heat wave bunnies go slower and all bombs activate, even in inventory
+•Harder
+work on socket: Multiple computers
+invisibility item makes your bunny invisible on other screens
+
+add 

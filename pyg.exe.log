@@ -1,0 +1,34 @@
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "E:\Bunny Battle - Not multicomputer\main.py", line 868, in <module>
+    start()
+  File "E:\Bunny Battle - Not multicomputer\main.py", line 177, in __init__
+    self.surface = pygame.display.set_mode(self.size,pygame.FULLSCREEN)
+pygame.error: No video mode large enough for 1960x1080
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 220, in _get_code_from_file
+  File "E:\Bunny Battle - Not multicomputer\main.py", line 178
+    print("his")
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 220, in _get_code_from_file
+  File "E:\Bunny Battle - Not multicomputer\main.py", line 202
+    sys.exit()
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 220, in _get_code_from_file
+  File "E:\Bunny Battle - Not multicomputer\main.py", line 273
+    a
+    ^
+IndentationError: unexpected indent
